@@ -1,4 +1,4 @@
-# 🧾 B2-1 Python File-Based Budget
+# 🧾 b2-1 python file-based Budget
 
 JSONL 파일에 데이터를 영구 저장하는 **터미널 기반 가계부 프로그램**입니다.
 Python 3.10 이상과 표준 라이브러리만 사용하며 별도의 패키지 설치가 필요 없습니다.
