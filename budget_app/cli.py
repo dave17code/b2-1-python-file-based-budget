@@ -176,7 +176,7 @@ def _print_transaction(transaction: Transaction) -> None:
 
 
 def _print_summary(summary: MonthlySummary) -> None:
-    """월별 요약과 예산 사용률, 카테고리 TOP 결과를 출력합니다."""
+    """월별 요약과 예산 사용률, 지출 카테고리 순위를 출력합니다."""
 
     if summary.transaction_count == 0:
         print(f"[데이터 없음] {summary.month}에 등록된 거래가 없습니다.")
@@ -195,7 +195,7 @@ def _print_summary(summary: MonthlySummary) -> None:
             exceeded = summary.total_expense - summary.budget
             print(f"[예산 초과 경고] 예산을 {_format_money(exceeded)} 초과했습니다.")
 
-    print("\n지출 카테고리 TOP")
+    print("\n지출 카테고리 순위")
     if not summary.expense_by_category:
         print("- 지출 데이터 없음")
     else:

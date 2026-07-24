@@ -1,0 +1,6 @@
+{"id":"TX-000001","type":"income","date":"2026-07-01","amount":3000000,"category":"salary","memo":"7월 급여","tags":["salary"]}
+{"id":"TX-000002","type":"expense","date":"2026-07-02","amount":700000,"category":"rent","memo":"7월 월세","tags":["housing","monthly"]}
+{"id":"TX-000003","type":"expense","date":"2026-07-03","amount":12000,"category":"food","memo":"점심 식사","tags":["meal","lunch"]}
+{"id":"TX-000004","type":"expense","date":"2026-07-05","amount":18000,"category":"food","memo":"저녁 식사","tags":["meal","dinner"]}
+{"id":"TX-000005","type":"expense","date":"2026-07-07","amount":55000,"category":"transport","memo":"대중교통 충전","tags":["commute"]}
+{"id":"TX-000006","type":"expense","date":"2026-07-10","amount":80000,"category":"education","memo":"프로그래밍 교재","tags":["book","study"]}
