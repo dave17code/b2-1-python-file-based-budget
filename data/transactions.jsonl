@@ -1,6 +1,20 @@
-{"id":"TX-000001","type":"income","date":"2026-07-01","amount":3000000,"category":"salary","memo":"7월 급여","tags":["salary"]}
-{"id":"TX-000002","type":"expense","date":"2026-07-02","amount":700000,"category":"rent","memo":"7월 월세","tags":["housing","monthly"]}
-{"id":"TX-000003","type":"expense","date":"2026-07-03","amount":12000,"category":"food","memo":"점심 식사","tags":["meal","lunch"]}
-{"id":"TX-000004","type":"expense","date":"2026-07-05","amount":18000,"category":"food","memo":"저녁 식사","tags":["meal","dinner"]}
-{"id":"TX-000005","type":"expense","date":"2026-07-07","amount":55000,"category":"transport","memo":"대중교통 충전","tags":["commute"]}
-{"id":"TX-000006","type":"expense","date":"2026-07-10","amount":80000,"category":"education","memo":"프로그래밍 교재","tags":["book","study"]}
+{"id":"TX-000001","type":"income","date":"2026-07-01","amount":3000000,"category":"salary","memo":"7월 급여","tags":["salary","monthly"]}
+{"id":"TX-000002","type":"expense","date":"2026-07-02","amount":850000,"category":"rent","memo":"7월 원룸 월세","tags":["housing","monthly","fixed"]}
+{"id":"TX-000003","type":"expense","date":"2026-07-04","amount":110000,"category":"utilities","memo":"7월 전기 및 가스 요금","tags":["utilities","electricity"]}
+{"id":"TX-000004","type":"expense","date":"2026-07-06","amount":220000,"category":"food","memo":"7월 식료품 장보기","tags":["groceries","home"]}
+{"id":"TX-000005","type":"expense","date":"2026-07-08","amount":70000,"category":"transport","memo":"7월 대중교통 충전","tags":["commute","transport"]}
+{"id":"TX-000006","type":"expense","date":"2026-07-11","amount":18000,"category":"food","memo":"회사 근처 점심 식사","tags":["meal","lunch","company"]}
+{"id":"TX-000007","type":"expense","date":"2026-07-15","amount":55000,"category":"health","memo":"감기 병원 진료","tags":["health","clinic"]}
+{"id":"TX-000008","type":"expense","date":"2026-07-19","amount":95000,"category":"education","memo":"파이썬 프로그래밍 교재","tags":["book","study"]}
+{"id":"TX-000009","type":"expense","date":"2026-07-23","amount":85000,"category":"utilities","memo":"휴대전화 및 인터넷 요금","tags":["utilities","monthly","communication"]}
+{"id":"TX-000010","type":"expense","date":"2026-07-27","amount":120000,"category":"etc","memo":"세제와 주방 생활용품","tags":["household","home"]}
+{"id":"TX-000011","type":"income","date":"2026-08-01","amount":3000000,"category":"salary","memo":"8월 급여","tags":["salary","monthly"]}
+{"id":"TX-000012","type":"expense","date":"2026-08-02","amount":850000,"category":"rent","memo":"8월 원룸 월세","tags":["housing","monthly","fixed"]}
+{"id":"TX-000013","type":"expense","date":"2026-08-05","amount":135000,"category":"utilities","memo":"에어컨 사용 전기 및 가스 요금","tags":["utilities","electricity","summer"]}
+{"id":"TX-000014","type":"expense","date":"2026-08-07","amount":240000,"category":"food","memo":"8월 식료품과 생필품 장보기","tags":["groceries","home"]}
+{"id":"TX-000015","type":"expense","date":"2026-08-10","amount":80000,"category":"transport","memo":"8월 대중교통 충전","tags":["commute","transport"]}
+{"id":"TX-000016","type":"expense","date":"2026-08-14","amount":32000,"category":"food","memo":"회사 동료와 저녁 식사","tags":["meal","dinner","company"]}
+{"id":"TX-000017","type":"expense","date":"2026-08-17","amount":30000,"category":"health","memo":"상비약 구매","tags":["health","pharmacy"]}
+{"id":"TX-000018","type":"expense","date":"2026-08-20","amount":120000,"category":"education","memo":"파이썬 온라인 강의 결제","tags":["online-course","study"]}
+{"id":"TX-000019","type":"expense","date":"2026-08-23","amount":85000,"category":"utilities","memo":"휴대전화 및 인터넷 요금","tags":["utilities","monthly","communication"]}
+{"id":"TX-000020","type":"expense","date":"2026-08-28","amount":210000,"category":"etc","memo":"원룸 에어컨 수리비","tags":["repair","home","summer"]}
